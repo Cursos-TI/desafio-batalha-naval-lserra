@@ -1,6 +1,6 @@
 //
 // Created by Laercio Serra (laercio.serra@gmail.com) on 31/10/2025.
-// Desafio de Xadrez - MateCheck
+// Desafio de Batalha Naval - MateCheck
 // Niveis: novato, aventureiro e mestre
 //
 #include <stdio.h>
