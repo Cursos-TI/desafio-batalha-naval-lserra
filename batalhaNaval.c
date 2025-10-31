@@ -24,7 +24,17 @@ int main() {
 
     // Sugestão: Utilize `printf` para exibir as coordenadas de cada parte dos navios.
     printf(">> Navio vertical posicionado em: (1, 2), (2, 2), (3, 2)\n");
+    printf("0 3 0 0 0\n");
+    printf("0 3 0 0 0\n");
+    printf("0 3 0 0 0\n");
+    printf("0 0 0 0 0\n");
+    printf("0 0 0 0 0\n");
     printf(">> Navio horizontal posicionado em: (4, 1), (4, 2), (4, 3)\n");
+    printf("0 0 0 0 0\n");
+    printf("0 0 0 0 0\n");
+    printf("0 0 0 0 0\n");
+    printf("3 3 3 0 0\n");
+    printf("0 0 0 0 0\n");
     printf("================================================================================\n");
 
     // Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
